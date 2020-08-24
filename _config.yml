@@ -60,9 +60,6 @@ author:
   avatar : "/assets/images/AK.png"
   bio    : "On a plan to build something"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TheAbhishehek"
@@ -75,12 +72,10 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Abhishek2028"
-    - label: "Medium"
-      icon: "fab fa-fw fa-medium"
-      url: "https://medium.com/@abhishekkakiak"
+    #- label: "GitHub"
+     # icon: "fab fa-fw fa-github"
+      #url: "https://github.com/Abhishek2028"
+    
 
 defaults:
   # _posts
