@@ -1,6 +1,6 @@
 main:
   - title: "Something that I wrote"
-    url: /categories/
+    url: "https://medium.com/@abhishekkakiak"
   - title: "CV"
-    url: /tags/
+    url: 
   
